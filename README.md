@@ -30,36 +30,6 @@ Each base scenario was tested under three prompt conditions:
 
 The benchmark uses only **synthetic realistic stimuli**. No real personal information, credentials, banking details, medical records, student records, or private user data were collected or used.
 
-## Repository Contents
-
-```text
-AI-Privacy-Oversharing-Study/
-├── README.md
-├── CODEBOOK.md
-├── DATASET_CARD.md
-├── DATA_AVAILABILITY.md
-├── CITATION.cff
-├── LICENSE
-├── requirements.txt
-├── metadata.json
-├── data/
-│   ├── AI_Privacy_Oversharing_Raw_Results_Appendix.xlsx
-│   ├── scored_response_log.csv
-│   ├── summary_by_condition.csv
-│   ├── summary_by_assistant.csv
-│   └── summary_by_category.csv
-├── analysis/
-│   └── statistical_summary.json
-├── figures/
-│   ├── fig1_privacy_protection_score_by_condition.png
-│   ├── fig2_sensitive_data_repetition_by_condition.png
-│   ├── fig3_category_condition_heatmap.png
-│   └── fig4_repeated_sensitive_data_types.png
-├── paper/
-│   └── AI_Privacy_Oversharing_Complete_Paper.docx
-└── scripts/
-    └── verify_dataset.py
-```
 
 ## Main Dataset
 
@@ -91,9 +61,7 @@ See [`CODEBOOK.md`](CODEBOOK.md) for full column definitions and scoring rules.
 
 All data in this repository are synthetic or model-generated. The prompts use realistic-looking but non-real details to reduce experimental artifacts while avoiding collection of actual sensitive information.
 
-## Suggested Citation
 
-See [`CITATION.cff`](CITATION.cff).
 
 ## License
 
