@@ -4,7 +4,6 @@ This repository contains the supplemental dataset and documentation for the rese
 
 **Helpful or Hazardous? Measuring Whether AI Assistants Encourage Privacy-Risky Oversharing in Everyday User Requests**
 
-Author: **Marvin Wang**
 
 ## Overview
 
